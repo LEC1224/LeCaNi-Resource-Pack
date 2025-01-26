@@ -1,0 +1,60 @@
+2024-10-08
+  Revampat Netherkartan för tydligare navigation
+  Uppdaterat Netherkartan med nya destinationer
+  Lagt till instruktioner för Colosseum som tavla
+  Kompabilitet med 1.21
+2024-06-04
+  Ändrade gristavlan till Deathaly i tronen
+  Lade in en kart-bakgrund på stora LeCaNi-tavlan
+  Ändrade The Rike-tavlan till Carlatornet
+  Kompabilitet med 1.20.6
+2024-05-06
+  Lade till Dark Rune på kartan
+  Kompabilitet till 1.20.4
+2024-03-08
+  Gjorde sandsten mörkare
+  Cooked Chicken är nu Chicken Nuggets
+  Uppdaterade nethervägskarta
+2024-02-12
+  Inverterade solsensorer ser nu ut som solpaneler
+  Uppdaterad nethervägskarta
+2023-11-09
+  Uppdaterad nethervägskarta
+2023-10-07
+  Cobblestone har mindre blockstenar
+  Redbull-dispensern är mer pixlad, och "vanilla"
+  Diamond- och Redstoneblock är borttagna
+2023-09-19
+  Kompabilitet för 1.20.1
+2023-03-18
+  Mer anpassat för 1.19.3
+  Uppdaterat Nethervägkartan med fler vägar och destinationer
+  Fixat svartheten i högtalartavlan
+  Fixat språket
+2023-03-01
+  Anpassat för 1.19.3
+  Minskat upplösning på tavlor
+  Fixat högtalartavlan
+2022-11-22
+  Anpassat för 1.19
+  Tagit bort fyrkantig rail-hörn
+  Tagit bort emeraldblock
+  Tagit bort custom oreblock
+  Birch-dörrar är moderna
+  Tagit bort lapis-item
+  Aciton-baren är snyggare/renare
+  Mossy cobble är grönare
+2020-11-02
+  Anpassat för 1.16
+    - Lagt till texturer för Netherite-verktyg
+    - Migrerat tavlor till nya texture-layouten
+  Fixat eldanimationen
+2017-12-19
+  Ändrade fireworks till Red Bull
+    - Rolig ordlek på att "Red Bull ger dig vingar"
+  Anpassat för 1.13 textures
+    - Tog bort sängitem
+    - Tog bort sängblock
+    - Mörkade ner och rengjorde cobblestone
+    - Tog bort bricks
+    - Tog bort nether bricks
