@@ -1,3 +1,8 @@
+2025-11-15
+  Ändrade deepslate (mindre cobble, mer sten)
+  Lade till Nether-roof-ikon till Netherkartan
+  Kompatibelt med 1.21.10
+
 2025-02-04
   Gjort Totem of Undying mindre
   Uppdaterat tunnelbanekartan
