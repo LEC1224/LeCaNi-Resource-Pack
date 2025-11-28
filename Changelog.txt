@@ -1,3 +1,8 @@
+2025-11-28
+  Lagt in connected glass
+  Fixade till deepslate
+  Uppdaterat nether-kartan
+
 2025-11-15
   Ändrade deepslate (mindre cobble, mer sten)
   Lade till Nether-roof-ikon till Netherkartan
